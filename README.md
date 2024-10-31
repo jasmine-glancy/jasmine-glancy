@@ -4,7 +4,7 @@ In addition, I'm passionate about the welfare of humans and animals. I'd love to
 I'm currently taking the following courses to further my education:
 - [100 days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code) on Udemy (93% complete)
 - [Mastering Linux: The Comprehensive Guide by Jannis Seemann](https://www.udemy.com/course/mastering-linux/) on Udemy (81% complete)
-- Data Analytics 101 through [Girl Develop It](https://girldevelopit.com/) (50% complete)
+- Data Analytics 101 through [Girl Develop It](https://girldevelopit.com/) (75% complete)
 - [Unreal Engine 5 C++ The Ultimate Game Developer Course by Stephen Ulibarri](https://www.udemy.com/course/unreal-engine-5-the-ultimate-game-developer-course/) on Udemy (5% complete)
 
 I have completed the following courses:
