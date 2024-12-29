@@ -19,3 +19,7 @@ You can reach me at jasmine.glancy.vt@gmail.com.
 I have no strong preference for pronouns, but she/her works. 
 
 Fun fact: I have a dog-shaped shadow named Jewel and a cat-shaped shadow named Artemis. 
+
+# Badges
+
+[<img src="https://i.imgur.com/y0tue6f.png" width="100" height="100" alt="Certified Entry-Level Python Programmer"/>](https://www.credly.com/badges/8c4fe528-507a-4f37-98d0-c0ca9a3d2aeb/public_url)
