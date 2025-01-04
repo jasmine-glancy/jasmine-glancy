@@ -20,6 +20,9 @@ I have no strong preference for pronouns, but she/her works.
 
 Fun fact: I have a dog-shaped shadow named Jewel and a cat-shaped shadow named Artemis. 
 
+
+# Stats
+
 <a href="https://git.io/streak-stats">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=jasmine-glancy&theme=dracula" />
 </a>
