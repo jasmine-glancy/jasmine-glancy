@@ -24,7 +24,7 @@ Fun fact: I have a dog-shaped shadow named Jewel and a cat-shaped shadow named A
 # Stats
 
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=jasmine-glancy&theme=dracula" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=jasmine-glancy&width=300&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://git-stats-self.vercel.app/api?username=jasmine-glancy&theme=dracula" />
