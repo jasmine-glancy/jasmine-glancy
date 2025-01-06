@@ -20,18 +20,27 @@ I have no strong preference for pronouns, but she/her works.
 
 Fun fact: I have a dog-shaped shadow named Jewel and a cat-shaped shadow named Artemis. 
 
+---
 
 # Stats
 
-<a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats-jasmine-glancys-projects.vercel.app/?user=jasmine-glancy&card_width=400&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://git-stats-self.vercel.app/api?username=jasmine-glancy&card_width=400&theme=dracula" />
-</a>
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img height=200 align="center" src="https://github-readme-streak-stats-jasmine-glancys-projects.vercel.app/?user=jasmine-glancy&card_width=400&theme=dracula" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://git-stats-self.vercel.app/api?username=jasmine-glancy&card_width=400&theme=dracula" />
+  </a>
+</p>
+<p align="center">
+  (Psst... Click the boxes to check out the repos for these neat README stats!)
+</p>
 
 
 # Badges
 
-[<img src="https://i.imgur.com/y0tue6f.png" width="100" height="100" alt="Certified Entry-Level Python Programmer"/>](https://www.credly.com/badges/8c4fe528-507a-4f37-98d0-c0ca9a3d2aeb/public_url) 
+<p align="center">
+  <a href="https://www.credly.com/badges/8c4fe528-507a-4f37-98d0-c0ca9a3d2aeb/public_url">
+    <img src="https://i.imgur.com/y0tue6f.png" width="100" height="100" alt="Certified Entry-Level Python Programmer"/>
+  </a>
+</p>
