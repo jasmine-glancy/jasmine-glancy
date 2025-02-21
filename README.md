@@ -5,12 +5,12 @@ I'm currently taking the following courses to further my education:
 - [100 days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code) on Udemy (94% complete)
 - [Mastering Linux: The Comprehensive Guide by Jannis Seemann](https://www.udemy.com/course/mastering-linux/) on Udemy (81% complete)
 - [MongoDB Database Admin Path (self-managed)](https://learn.mongodb.com/learn/learning-path/mongodb-database-admin-self-managed-path) on MongoDB University (62%)
-- [PL-300 certification prep: Microsoft Power BI Data Analyst](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/) on Udemy (7%)
+- [PL-300 certification prep: Microsoft Power BI Data Analyst](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/) on Udemy (10%)
 - [Unreal Engine 5 C++ The Ultimate Game Developer Course by Stephen Ulibarri](https://www.udemy.com/course/unreal-engine-5-the-ultimate-game-developer-course/) on Udemy (5% complete)
 
 I have completed the following courses:
 - [MongoDB Python Developer Path](https://learn.mongodb.com/learn/learning-path/mongodb-python-developer-path) on MongoDB University
-- [CS50 through Harvard University Open Source](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+- [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) through Harvard University Open Source
 - [The Complete SQL Bootcamp: Go from Zero to Hero by Jose Portilla](https://www.udemy.com/course/the-complete-sql-bootcamp/) on Udemy
 - Data Analytics 101, Python 101: Introduction through [Girl Develop It](https://girldevelopit.com/)
 
