@@ -6,7 +6,6 @@ I'm currently taking the following courses to further my education:
 - [Mastering Linux: The Comprehensive Guide by Jannis Seemann](https://www.udemy.com/course/mastering-linux/) on Udemy (81% complete)
 - [MongoDB Database Admin Path (self-managed)](https://learn.mongodb.com/learn/learning-path/mongodb-database-admin-self-managed-path) on MongoDB University (62%)
 - [PL-300 certification prep: Microsoft Power BI Data Analyst](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/) on Udemy (10%)
-- [Unreal Engine 5 C++ The Ultimate Game Developer Course by Stephen Ulibarri](https://www.udemy.com/course/unreal-engine-5-the-ultimate-game-developer-course/) on Udemy (5% complete)
 
 I have completed the following courses:
 - [MongoDB Python Developer Path](https://learn.mongodb.com/learn/learning-path/mongodb-python-developer-path) on MongoDB University
