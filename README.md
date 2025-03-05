@@ -1,6 +1,7 @@
 Welcome to my profile! I'm jasmine-glancy. I'm interested in the various trends that can be found in data and how those trends impact us. 
 In addition, I'm passionate about the welfare of humans and animals. I'd love to find ways to improve education and make life easier for us all! 
 
+
 I'm currently taking the following courses to further my education:
 - [100 days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code) on Udemy (94% complete)
 - [Mastering Linux: The Comprehensive Guide by Jannis Seemann](https://www.udemy.com/course/mastering-linux/) on Udemy (81% complete)
@@ -20,6 +21,16 @@ You can reach me at jasmine.glancy.vt@gmail.com.
 I have no strong preference for pronouns, but she/her works. 
 
 Fun fact: I have a dog-shaped shadow named Jewel and a cat-shaped shadow named Artemis. 
+
+---
+
+
+# Current TODOs
+
+- [ ] Move [The Pet Food Calculator's](https://github.com/jasmine-glancy/PetFoodCalculator) database to MongoDB
+- [ ] Pass the MongoDB Python Associate Developer exam by April 2025
+- [ ] Finish the Picture Palette Picture (Python/HTML/CSS/JS)
+
 
 ---
 
