@@ -28,6 +28,15 @@ Fun fact: I have a dog-shaped shadow named Jewel and a cat-shaped shadow named A
 # Current TODOs
 
 - [ ] Move [The Pet Food Calculator's](https://github.com/jasmine-glancy/PetFoodCalculator) database to MongoDB
+  - [x] Activity levels
+  - [x] Feline DER factors
+  - [x] Canine DER factors
+  - [x] Cat breeds
+  - [ ] Dog breeds
+  - [ ] Food forms
+  - [ ] Reproductive statuses
+  - [ ] Create pets DB in MongoDB
+  - [ ] Create users DB in MongoDB
 - [ ] Pass the MongoDB Python Associate Developer exam by April 2025
 - [ ] Finish the Picture Palette Picture (Python/HTML/CSS/JS)
 
