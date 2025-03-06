@@ -32,11 +32,12 @@ Fun fact: I have a dog-shaped shadow named Jewel and a cat-shaped shadow named A
   - [x] Feline DER factors
   - [x] Canine DER factors
   - [x] Cat breeds
-  - [ ] Dog breeds
-  - [ ] Food forms
-  - [ ] Reproductive statuses
+  - [x] Dog breeds
+  - [x] Food forms
+  - [x] Reproductive statuses
   - [ ] Create pets DB in MongoDB
   - [ ] Create users DB in MongoDB
+  - [ ] Refactor [The Pet Food Calculator's](https://github.com/jasmine-glancy/PetFoodCalculator) to PyMongo
 - [ ] Pass the MongoDB Python Associate Developer exam by April 2025
 - [ ] Finish the Picture Palette Picture (Python/HTML/CSS/JS)
 
