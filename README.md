@@ -38,8 +38,7 @@ Fun fact: I have a dog-shaped shadow named Jewel and a cat-shaped shadow named A
   - [ ] Create pets DB in MongoDB
   - [ ] Create users DB in MongoDB
   - [ ] Refactor [The Pet Food Calculator](https://github.com/jasmine-glancy/PetFoodCalculator) to PyMongo
-- [ ] Pass the MongoDB Python Associate Developer exam by May 2025
-- [ ] Finish the Picture Palette Picture (Python/HTML/CSS/JS)
+- [x] Finish the Picture Palette Picture (Python/HTML/CSS/JS)
 
 
 ---
