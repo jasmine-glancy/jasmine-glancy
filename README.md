@@ -1,3 +1,4 @@
+
 Welcome to my profile! I'm jasmine-glancy. I'm interested in the various trends that can be found in data and how those trends impact us. 
 In addition, I'm passionate about the welfare of humans and animals. I'd love to find ways to improve education and make life easier for us all! 
 
@@ -29,9 +30,13 @@ Fun fact: I have a dog-shaped shadow named Jewel and a cat-shaped shadow named A
   <a href="https://git.io/streak-stats">
     <img height=200 align="center" src="https://github-readme-streak-stats-jasmine-glancys-projects.vercel.app/?user=jasmine-glancy&card_width=400&theme=dracula" />
   </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jasmine-glancy&show_icons=true&theme=dracula" />
+  </a>
 </p>
+
 <p align="center">
-  (Psst... Click the box to check out the repo for these neat README stats!)
+  (Psst... Click the box to check out the repos for these neat README stats!)
 </p>
 
 
