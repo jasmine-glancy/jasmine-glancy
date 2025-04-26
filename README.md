@@ -30,8 +30,9 @@ Fun fact: I have a dog-shaped shadow named Jewel and a cat-shaped shadow named A
   <a href="https://git.io/streak-stats">
     <img align="center" width=450 src="https://github-readme-streak-stats-jasmine-glancys-projects.vercel.app/?user=jasmine-glancy&card_width=400&theme=dracula" />
   </a>
+  <span padding=2></span>
   <a href="https://github.com/jasmine-glancy/github-readme-stats">
-    <img align="center" width=460 src="https://github-readme-stats.vercel.app/api?username=jasmine-glancy&show_icons=true&theme=dracula" />
+    <img align="center" width=455 src="https://github-readme-stats.vercel.app/api?username=jasmine-glancy&show_icons=true&theme=dracula" />
   </a>
 </p>
 
