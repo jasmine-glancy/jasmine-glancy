@@ -51,4 +51,8 @@ Fun fact: I have a dog-shaped shadow named Jewel and a cat-shaped shadow named A
   <a href="https://www.credly.com/badges/8c4fe528-507a-4f37-98d0-c0ca9a3d2aeb/public_url">
     <img src="https://i.imgur.com/xRkvvXV.png" width="150" height="150" alt="From Relational Model (SQL) to MongoDB's Document Model"/>
   </a>
+    &nbsp;&nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/58cf6ee9-c1fe-4dcd-9059-05d32a60fdde">
+    <img src="https://i.imgur.com/K1gGnqY.png" width="150" height="150" alt="MongoDB Schema Design Patterns and Antipatterns Skill Badge"/>
+  </a>
 </p>
