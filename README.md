@@ -4,7 +4,7 @@ In addition, I'm passionate about the welfare of humans and animals. I'd love to
 
 
 I'm currently taking the following courses to further my education:
-- [Data Engineering Bootcamp by Zach Wilson and the DataExpert.io Team](https://www.dataexpert.io/)on DataExpert.io
+- [Data Engineering Bootcamp by Zach Wilson and the DataExpert.io Team](https://www.dataexpert.io/) on DataExpert.io
 - [100 days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code) on Udemy
 - [Mastering Linux: The Comprehensive Guide by Jannis Seemann](https://www.udemy.com/course/mastering-linux/) on Udemy
 - [MongoDB Database Admin Path (self-managed)](https://learn.mongodb.com/learn/learning-path/mongodb-database-admin-self-managed-path) on MongoDB University 
