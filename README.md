@@ -2,6 +2,7 @@
 Welcome to my profile! I'm jasmine-glancy. I'm interested in the various trends that can be found in data and how those trends impact us. 
 In addition, I'm passionate about the welfare of humans and animals. I'd love to find ways to improve education and make life easier for us all! 
 
+I'm happiest when I get to solve interesting problems, and my favorite issues to make are the ones on GithHub. :) You can't compete with me because I want you to win, too!
 
 I'm currently taking the following courses to further my education:
 - [Data Engineering Bootcamp by Zach Wilson and the DataExpert.io Team](https://www.dataexpert.io/) on DataExpert.io
